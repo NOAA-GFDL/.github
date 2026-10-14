@@ -1,5 +1,6 @@
 <!-- omit in toc -->
-# Contributing to NOAA-RDHPCS
+
+# Contributing to NOAA-GFDL
 
 First off, thanks for taking the time to contribute! ❤️
 
@@ -13,12 +14,14 @@ involved. The community looks forward to your contributions. 🎉
 > And if you like the project, but just don't have time to contribute,
 > that's fine. There are other easy ways to support the project and
 > show your appreciation, which we would also be very happy about:
+>
 > - Star the project
 > - Tweet about it
 > - Refer this project in your project's readme
 > - Mention the project at local meetups and tell your friends/colleagues
 
 <!-- omit in toc -->
+
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
@@ -32,7 +35,6 @@ involved. The community looks forward to your contributions. 🎉
   - [Commit Messages](#commit-messages)
 - [Join The Project Team](#join-the-project-team)
 
-
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
@@ -40,7 +42,6 @@ This project and everyone participating in it is governed by the
 Conduct](https://github.com/NOAA-GFDL/.github/blob//CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report
 unacceptable behavior to <>.
-
 
 ## I Have a Question
 
@@ -63,6 +64,7 @@ We will then take care of the issue as soon as possible.
 ## I Want To Contribute
 
 > ### Legal Notice <!-- omit in toc -->
+>
 > When contributing to this project, you must agree that you have
 > authored 100% of the content, that you have the necessary rights to
 > the content and that the content you contribute may be provided
@@ -71,6 +73,7 @@ We will then take care of the issue as soon as possible.
 ### Reporting Bugs
 
 <!-- omit in toc -->
+
 #### Before Submitting a Bug Report
 
 A good bug report shouldn't leave others needing to chase you up for
@@ -82,7 +85,7 @@ potential bug as fast as possible.
 - Make sure that you are using the latest version.
 - Determine if your bug is really a bug and not an error on your side
   e.g. using incompatible environment components/versions (Make sure
-  that you have read the [documentation](). If you are looking for
+  that you have read the [documentation](<>). If you are looking for
   support, you might want to check [this
   section](#i-have-a-question)).
 - To see if other users have experienced (and potentially already
@@ -102,6 +105,7 @@ potential bug as fast as possible.
     it with older versions?
 
 <!-- omit in toc -->
+
 #### How Do I Submit a Good Bug Report?
 
 We use GitHub issues to track bugs and errors. If you run into an
@@ -112,7 +116,7 @@ issue with the project:
   ask you not to talk about a bug yet and not to label the issue.)
 - Explain the behavior you would expect and the actual behavior.
 - Please provide as much context as possible and describe the
-  *reproduction steps* that someone else can follow to recreate the
+  _reproduction steps_ that someone else can follow to recreate the
   issue on their own. This usually includes your code. For good bug
   reports you should isolate the problem and create a reduced test
   case.
@@ -140,10 +144,11 @@ will help maintainers and the community to understand your suggestion
 and find related suggestions.
 
 <!-- omit in toc -->
+
 #### Before Submitting an Enhancement
 
 - Make sure that you are using the latest version.
-- Read the [documentation]() carefully and find out if the
+- Read the [documentation](<>) carefully and find out if the
   functionality is already covered, maybe by an individual
   configuration.
 - Perform a [search](https://github.com/NOAA-GFDL/.github/issues) to
@@ -157,6 +162,7 @@ and find related suggestions.
   minority of users, consider writing an add-on/plugin library.
 
 <!-- omit in toc -->
+
 #### How Do I Submit a Good Enhancement Suggestion?
 
 Enhancement suggestions are tracked as [GitHub
@@ -183,5 +189,7 @@ issues](https://github.com/NOAA-GFDL/.github/issues).
   it better and which could serve as inspiration.
 
 <!-- omit in toc -->
+
 ## Attribution
+
 This guide is based on the [contributing.md](https://contributing.md/generator)!
